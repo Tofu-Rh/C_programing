@@ -27,7 +27,7 @@ int main(void)
   printf("               Price             date  \n");
   printf("%d               %.1f            %d",item_number,unit_price,date);
   
- 
+ return 0;
 
 
 
